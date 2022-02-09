@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="playBtnString">Play</string>
+    <string name="exitBtnString">Exit</string>
+    <string name="quizAppNameString">Simple Quiz App</string>
+    <string name="questionsAttemptedString">Questions Attempted</string>
+    <string name="questionString">Question</string>
+    <string name="endQuizString">End Quiz</string>
+    <string name="restartQuizString">Restart</string>
+    <string name="option04String">Option04</string>
+    <string name="option03String">Option03</string>
+    <string name="option02String">Option02</string>
+    <string name="option01String">Option01</string>
+</resources>
